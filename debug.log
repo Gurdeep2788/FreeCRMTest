@@ -1,0 +1,11 @@
+[1030/105755.432:ERROR:process_info.cc(359)] UncheckedAllocate
+[1030/112505.009:ERROR:process_info.cc(359)] UncheckedAllocate
+[1030/112505.192:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbfc145b64 of 512 bytes failed: Error (0x13D) while retrieving error. (0x12B)
+[1030/112653.177:ERROR:process_info.cc(359)] UncheckedAllocate
+[1030/112803.560:ERROR:process_info.cc(359)] UncheckedAllocate
+[1030/114829.748:ERROR:process_info.cc(359)] UncheckedAllocate
+[1030/122424.011:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1030/122424.012:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[1030/123227.384:ERROR:process_info.cc(359)] UncheckedAllocate
+[1030/233037.584:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1030/233037.619:ERROR:exception_snapshot_win.cc(98)] thread ID 1544 not found in process
